@@ -1,5 +1,5 @@
 import readline from "readline-sync";
-//EXERCICE 12
+// EXERCICE 12
 let premierNote = readline.questionFloat("saiser premier Note: ");
 let CoefficientPremierNote = readline.questionFloat("saiser queffition de premier Note: ");
 let secondNote = readline.questionFloat("saiser second Note: ");

@@ -7,7 +7,7 @@ function inverseChaine(unMot) {
   }
   return leMotIneversed;
 }
-//EXERCICE 11 ==>
+// EXERCICE 11 ==>
 let testRadar = readline.question(
   "veuillez entrez une chaine pour le test palidrom"
 );

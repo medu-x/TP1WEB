@@ -1,8 +1,6 @@
 import readline from "readline-sync";
 //EXERCICE 10 ==>
-
 let MotChaine = readline.question("veuillez saiser un mot :");
-
 function inverseChaine(unMot) {
   let leMotIneversed = "";
   let n = unMot.length - 1;
